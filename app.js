@@ -1,0 +1,1 @@
+//Random text in js file and all logic comes here
